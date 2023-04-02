@@ -1,2 +1,1 @@
-# workshop-frontend-2023.1
- Desafio front-end para a f[ablica de software
+Projeto de pegar dados de uma API de The office e exibir um site contendo formas de consultar informações úteis, como nomes de episódios, fotos e etc. O problema é que há um erro nas importações e não aparece imagem.
